@@ -3,6 +3,5 @@
 .idea/
 Would skip repository CIDR/
 db.sqlite3
-store/__pycache__/
-store/migrations/__pycache__/
 templates/
+__pycache__/
